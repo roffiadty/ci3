@@ -1,0 +1,26 @@
+:root {
+  --bg-black : #000000;
+  --bg-dark : #212529;
+  --txt-white : #eaeaea;
+  --bg-accent : #1c4264;
+}
+
+.text-bold {
+  font-weight: bold !important;
+}
+
+.text-white {
+  color : var(--txt-white) !important;
+}
+
+.bg-black {
+  background-color: var(--bg-black) !important;
+}
+
+.bg-dark {
+  background-color: var(--bg-dark) !important;
+}
+
+.bg-accent {
+  background-color: var(--bg-accent) !important;
+}
